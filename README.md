@@ -49,7 +49,8 @@ Tables: Customers, Orders, Payments, Products, Suppliers, Order_Details, Shipmen
 - Logistics: *Late deliveries % and carrier on-time rates expose operational gaps.*  
 - Products: *Electronics leads revenue; top supplier identified for procurement focus.*
 
-## Version - 2: Proj2sql,Proj2query (PullData,Grouping&Aggregation,Joins,WindowFunctions,BusinessLogic,DataCleaning,KPIs)
+## Version - 2: Proj2sql,Proj2query (31)
+(PullData,Grouping&Aggregation,Joins,WindowFunctions,BusinessLogic,DataCleaning,KPIs)
 (1) Query&filterdata
 (2) Joinmultiplebusinessdata
 (3) Summarise&groupby
