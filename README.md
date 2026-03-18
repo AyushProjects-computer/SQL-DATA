@@ -1,5 +1,5 @@
 # SQL-DATA
-# E-Commerce Analytics — SQL + Power BI 
+# E-Commerce Analytics & EmployeeDataset — SQL + Power BI 
 
 ## What this project is
 - SQL for analysis (joins, CTEs, subqueries, window functions where needed)
@@ -58,12 +58,12 @@ Tables: Customers, Orders, Payments, Products, Suppliers, Order_Details, Shipmen
 (5) Createbusinesskpis
 (6) Clean&validate
 
-## 🛠️ Tech
-SQL (MySQL), Power BI
+## Version - Employee Dataset & Query 
+(1) Core Sql Functions along with multiple conditions
 
+##  Tech
+SQL (MySQL), Power BI
 
 ## 📄 License
 MIT — see [LICENSE](./LICENSE).
-
-—
-*Built with a “less but better” mindset. 
+ 
